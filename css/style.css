@@ -1,0 +1,55 @@
+/* Stage */
+#stage {
+    position: relative;
+ overflow: hidden; 
+  height: 400px;
+  margin: 3% auto;
+  width: 715px;
+}
+
+/* Absolute Children */
+#google{
+  position: absolute;
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+  right: 100px;
+  padding-top: 25%;
+  padding-right: 20%; 
+}
+
+#vcd {
+  postion: absolute;
+  color: red;
+  font-size: 200px;
+  font-family: 'Dancing Script',cursive;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 20%;
+  padding-right: 10%;
+  }
+
+
+#r {
+  position: absolute;
+  font-family: 'Dancing Script', cursive;
+  color: blue;
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+  padding-left: 45%;
+  padding-top: 40%;
+  font-size: 50px;
+  
+}
+
+
+
+
+
+
+
+
+
+
